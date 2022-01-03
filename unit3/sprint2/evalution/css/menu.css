@@ -1,0 +1,15 @@
+h1{
+    text-align: right;
+}
+
+
+#menu{
+display:grid;
+grid-template-columns: repeat(3, 350px);
+grid-gap:50px;
+}
+
+#menu>div>img{
+    height:300px;
+    width:100%;
+}

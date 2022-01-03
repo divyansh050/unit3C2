@@ -1,0 +1,15 @@
+.navbar{
+display:flex;
+background-color: black;
+color: white;
+font-weight: bold;
+justify-content: right;
+height: 80px
+}
+
+.navbar a {
+    color : white;
+    padding: 10px;
+text-decoration: none;
+
+}

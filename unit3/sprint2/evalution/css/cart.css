@@ -1,0 +1,10 @@
+#main{
+display:grid;
+grid-template-columns: repeat(4, 220px);
+grid-gap:50px;
+}
+
+#main>div>img{
+    height:300px;
+    width:100%;
+}
